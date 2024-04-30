@@ -25,3 +25,5 @@ Features:
 About Me section.
 Portfolio showcase.
 Contact form.
+![WhatsApp Image 2024-04-30 at 18 41 08_cbee89ab](https://github.com/MalikaSethi/code_alpha_tasks/assets/162850877/904a0b76-7ded-4f27-a21c-ca15d573eba1)
+
