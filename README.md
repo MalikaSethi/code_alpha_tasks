@@ -25,5 +25,10 @@ Features:
 About Me section.
 Portfolio showcase.
 Contact form.
-![WhatsApp Image 2024-04-30 at 18 41 08_cbee89ab](https://github.com/MalikaSethi/code_alpha_tasks/assets/162850877/904a0b76-7ded-4f27-a21c-ca15d573eba1)
+![Screenshot 2024-04-30 184630](https://github.com/MalikaSethi/code_alpha_tasks/assets/162850877/302bd814-b4c9-4adb-97df-8303c639941b)
+![Screenshot 2024-04-30 184758](https://github.com/MalikaSethi/code_alpha_tasks/assets/162850877/0236dc06-7d94-498e-95d5-e235a6da3aac)
+![Screenshot 2024-04-30 173933](https://github.com/MalikaSethi/code_alpha_tasks/assets/162850877/4d855105-1353-44d4-ac0b-a37a64cda8f7)
+
+
+
 
